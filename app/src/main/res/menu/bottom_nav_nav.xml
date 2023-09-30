@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/icon_home"
+        android:iconTint="#2C38D0"
+        />
+
+    <item
+        android:id="@+id/add"
+        android:title="Add"
+        android:icon="@drawable/icon_add"
+        android:iconTint="#2C38D0"
+        />
+
+    <item
+        android:id="@+id/checklist"
+        android:title="CheckList"
+        android:icon="@drawable/icon_checklist"
+        android:iconTint="#2C38D0"
+        />
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/icon_profile"
+        android:iconTint="#2C38D0"
+        />
+
+</menu>

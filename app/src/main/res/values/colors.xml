@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Define completedColor as green -->
+    <color name="completedColor">#00FF00</color>
+
+    <!-- Define incompleteColor as red (or any other color you prefer) -->
+    <color name="incompleteColor">#FF0000</color>
+</resources>
