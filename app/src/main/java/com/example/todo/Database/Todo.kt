@@ -10,7 +10,7 @@ data class Todo (
 )
 {
     enum class Status{
-        COMPLETED, IN_PROGRESS, PENDING;
+        COMPLETED, PENDING;
 
     }
 }

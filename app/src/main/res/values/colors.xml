@@ -4,8 +4,16 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Define completedColor as green -->
-    <color name="completedColor">#00FF00</color>
+    <color name="completedColor">#303F9F</color>
 
     <!-- Define incompleteColor as red (or any other color you prefer) -->
-    <color name="incompleteColor">#FF0000</color>
+    <color name="incompleteColor">#808080</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Darker variant of the primary color -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Accent color -->
+    <color name="colorAccent">#FF4081</color>
 </resources>

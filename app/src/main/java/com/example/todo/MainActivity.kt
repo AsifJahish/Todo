@@ -33,10 +33,7 @@ class MainActivity : AppCompatActivity() {
                     replaceFragment(HomeFragment())
                     return@setOnNavigationItemSelectedListener true
                 }
-                R.id.add -> {
-                    replaceFragment(AddFragment())
-                    return@setOnNavigationItemSelectedListener true
-                }
+
                 R.id.checklist -> {
                     replaceFragment(CheckListFragment())
                     return@setOnNavigationItemSelectedListener true
